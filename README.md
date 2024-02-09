@@ -8,6 +8,6 @@ By integrating Internet of Things (IoT) sensors, networking routers, and end dev
 Autonomous forklifts, conveyor belts, and guided vehicles navigate efficiently via computer networks. Robust communication, security, and connectivity are central to our system, facilitated by wireless networks and a decision-making control system.
 
 Key Features:
-Visible real-time data exchange 
-Utilisation of relevant communication protocols
-Future-oriented warehouse demonstration
+- Visible real-time data exchange
+- Utilisation of relevant communication protocols
+- Future-oriented warehouse demonstration
