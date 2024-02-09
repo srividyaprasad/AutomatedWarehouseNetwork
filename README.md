@@ -11,3 +11,4 @@ Key Features:
 - Visible real-time data exchange
 - Utilisation of relevant communication protocols
 - Future-oriented warehouse demonstration
+- Custom IoT CPT "things" for prototyping industrial robots and machines
